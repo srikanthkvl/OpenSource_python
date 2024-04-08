@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "opensource-project"
+name = "reminder"
 version = "0.1.0"
 description = ""
 authors = ["KanSri"]
@@ -7,7 +7,7 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10.0"
+python = "^3.8.0"
 click = "^8.1.7"
 
 
