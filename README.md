@@ -1,1 +1,1 @@
-This is my first Open Source project
+This is my first read me file for opensoure proejct in python
