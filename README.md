@@ -1,1 +1,1 @@
-This is my first read me file for opensoure proejct in python
+This is my first read me file for opensoure proejct in python.
