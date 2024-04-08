@@ -72,7 +72,6 @@ def add(task: str, deadline: str):
     """Add a task in reminders."""
     task_list = _get_task_list()
     target = _find_task(task, task_list)
-    # click.echo(f"{target} found")
     if target is not None:
         click.echo(f"{task} already in the list.")
         return
