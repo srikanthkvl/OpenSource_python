@@ -20,6 +20,6 @@ jobs:
     
     - name: checking
       run: |
-        python -m install pip --upgrade pip
-        python -m install tox
+        python -m pip intall --upgrade pip
+        python -m pip install tox
         tox
